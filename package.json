@@ -1,0 +1,21 @@
+{
+  "name": "simple-http-assignment-start-master",
+  "version": "1.0.0",
+  "description": "First simple server for an assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests complete\"",
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemoooooooon/Simple-HTTP-Assignment-Start.git"
+  },
+  "author": "Chloe Moon",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cemoooooooon/Simple-HTTP-Assignment-Start/issues"
+  },
+  "homepage": "https://github.com/cemoooooooon/Simple-HTTP-Assignment-Start#readme"
+}
